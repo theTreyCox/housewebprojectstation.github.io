@@ -1,2 +1,2 @@
 # housewebprojectstation.github.io
-Landing page for House Web Project Station application for macOS and Windows.
+Landing page that includes download links to software by Trey Cox.
